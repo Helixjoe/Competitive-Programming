@@ -6,4 +6,8 @@
 <h3> <em>1Star to 2Star</em></h3>
 <ol>
 	<li>CHFRICH</li>
+	<li>VDATES</li>
+	<li>HOOPS</li>
+	<li>FINE</li>
+	<li>NEGPROD</li>
 </ol>
